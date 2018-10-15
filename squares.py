@@ -1,7 +1,7 @@
 
 # coding: utf-8
 
-
+hello = "Hello world"
 
 
 # In[1]:
